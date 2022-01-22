@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9VWoaEVtS/41T2clsQ8vsH2+MPEm+npzyTlaAjC4mX4=",
+  "Source": "AdsAgency.Gateway",
+  "BasePath": "_content/AdsAgency.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

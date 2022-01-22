@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Notifier\Dtos" />
+      <Folder Include="Notifier\Services" />
+      <Folder Include="RequestService\Dtos" />
+      <Folder Include="RequestService\Services" />
+    </ItemGroup>
+
+</Project>
